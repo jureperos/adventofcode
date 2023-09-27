@@ -1,0 +1,16 @@
+{
+  "name": "calories_adv_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.0",
+    "csv-stringify": "^6.4.2",
+    "fs": "^0.0.1-security"
+  }
+}
