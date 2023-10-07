@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode_day_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rockPaperScissors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.0"
+  }
+}

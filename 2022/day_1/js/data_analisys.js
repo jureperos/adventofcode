@@ -36,7 +36,8 @@ csvData.forEach(row => {
     //}
 
 
-    /* This would probably be a task for a binary search tree */
+    /* This would probably be a task for a binary search tree
+       or something better than this */
     for (let i = 0; i < calorieSum.length; i++) {
 
         // fill the first three array slots
